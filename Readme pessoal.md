@@ -1,5 +1,5 @@
 # 🛠️ Comandos Git úteis
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Samyr-Dev/dslist/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Samyr-Dev/GitTutorial/blob/master/LICENSE)
 
 # 🚀 Inicializando um repositório
 
