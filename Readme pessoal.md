@@ -36,3 +36,6 @@ Esse comando sincroniza seu repositório local com as mudanças do repositório 
 
 # 📬 Pull Request
 Um Pull Request é uma solicitação de alteração enviada para o repositório original a partir de um repositório que foi forkeado (copiado). Ele é utilizado para propor mudanças e colaborar com projetos públicos ou de outras pessoas.
+
+## Commands git
+![Commands git](https://github.com/Samyr-Dev/GitTutorial/blob/main/assets/Commands%20GIT.jpg)
