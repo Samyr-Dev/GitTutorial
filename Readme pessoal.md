@@ -3,6 +3,8 @@
 
 # 🚀 Inicializando um repositório
 
+git status
+
 git init
 
 git add ./nome_arquivo
