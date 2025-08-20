@@ -15,6 +15,8 @@ git branch -M main
 
 git remote add origin <url-do-repositório>
 
+git remote -v
+
 git push -u origin main
 
 ## ⚠️ Se o push gerar conflitos devido a históricos diferentes, utilize o comando abaixo para mesclar as versões:
