@@ -4,6 +4,7 @@
 # 💻 Trabalhando em outra máquina
 
 git config --global user.email "usuario@gmail.com"
+
 git config --global user.name "nome ou apelido
 
 # 🚀 Inicializando um repositório
