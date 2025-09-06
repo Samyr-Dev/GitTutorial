@@ -1,6 +1,11 @@
 # 🛠️ Comandos Git úteis
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Samyr-Dev/GitTutorial/blob/master/LICENSE)
 
+# 💻 Trabalhando em outra máquina
+
+git config --global user.email "usuario@gmail.com"
+git config --global user.name "nome ou apelido
+
 # 🚀 Inicializando um repositório
 
 git status
